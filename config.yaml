@@ -1,0 +1,3 @@
+processamento:
+  titanic:
+    path: 'titanic/'
